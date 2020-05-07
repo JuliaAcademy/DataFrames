@@ -1,0 +1,7 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+FreqTables = "da1fdf0e-e0ff-5433-a45f-9bb5ff651cb1"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+Pipe = "b98c9c47-44ae-5843-9183-064241ee97a0"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
