@@ -3,7 +3,9 @@
 Welcome to DataFrames.jl with Bogumił Kamiński
 
 The material is organized in six notebooks that are recommended to be studied in
-the specified sequence.
+the specified sequence. In order to make sure that the notebooks work correctly
+please make sure to download the whole repository and start Jupyter Notebook
+in the directory where the downloaded files are located.
 
 This tutorial is intended to be an introduction to the DataFrames.jl package and
 the related ecosystem. It is task-oriented, so it aims to show how available
