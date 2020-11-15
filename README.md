@@ -17,4 +17,4 @@ that are provided in the DataFrames.jl package please consult
 advanced tutorial that is available
 [here](https://github.com/bkamins/Julia-DataFrames-Tutorial).
 
-This version of the manual was tested with Julia 1.4.1 and DataFrames.jl 0.21.0.
+This version of the manual was tested with Julia 1.5.3 and DataFrames.jl 0.22.0.
