@@ -2,9 +2,9 @@
 
 [[Arrow]]
 deps = ["CodecLz4", "CodecZstd", "DataAPI", "Dates", "Mmap", "PooledArrays", "SentinelArrays", "Tables", "TimeZones"]
-git-tree-sha1 = "3adafaf727892ee5643ab97288528b5065742c13"
+git-tree-sha1 = "6e83ab3e98066617989a6b064f2a2fbf79e326db"
 uuid = "69666777-d1a9-59fb-9406-91d4454c9d45"
-version = "0.4.1"
+version = "1.0.0"
 
 [[Artifacts]]
 deps = ["Pkg"]
@@ -456,9 +456,9 @@ uuid = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [[TimeZones]]
 deps = ["Dates", "EzXML", "Mocking", "Pkg", "Printf", "RecipesBase", "Serialization", "Unicode"]
-git-tree-sha1 = "e863e6524c2a8d703bbd59e7592c97537c94579f"
+git-tree-sha1 = "69f312cdb1b3145761d4e5866034efde4608735d"
 uuid = "f269a46b-ccf7-5d73-abea-4c690281aa53"
-version = "1.5.0"
+version = "1.5.1"
 
 [[TranscodingStreams]]
 deps = ["Random", "Test"]
