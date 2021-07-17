@@ -19,4 +19,4 @@ advanced tutorial that is available
 
 This version of the manual was tested with:
 * Julia 1.5.3 and 1.6.1;
-* DataFrames.jl 0.22.0 and 1.1.1.
+* DataFrames.jl 0.22.0 and 1.2.0.
