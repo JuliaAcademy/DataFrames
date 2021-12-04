@@ -18,5 +18,11 @@ advanced tutorial that is available
 [here](https://github.com/bkamins/Julia-DataFrames-Tutorial).
 
 This version of the manual was tested with:
-* Julia 1.5.3 and 1.6.1;
-* DataFrames.jl 0.22.0 and 1.2.0.
+* Julia 1.5.3, 1.6.1, and 1.7.0;
+* DataFrames.jl 0.22.0, 1.2.0, 1.3.0.
+
+The current version of the manual uses the new Manifest.toml format that
+was introduced in Julia 1.7.0. If you are on an older version of Julia
+consider working with
+[1.2.0 release](https://github.com/JuliaAcademy/DataFrames/releases/tag/1.2.0)
+of this tutorial.
